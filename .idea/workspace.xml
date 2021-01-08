@@ -4,21 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2918539-9034-41d4-983d-f124ef1b153b" name="Default Changelist" comment="" />
+    <list default="true" id="20d812cc-9403-4078-9347-613c012def08" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$/sandbox">
+    <projectState path="$PROJECT_DIR$/../Sanbox">
       <ProjectState />
     </projectState>
   </component>
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <task path="$PROJECT_DIR$/sandbox">
+        <task path="$PROJECT_DIR$/../Sanbox">
           <activation />
         </task>
         <projects_view>
@@ -26,11 +26,11 @@
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="sandbox" type="f1a62948:ProjectNode" />
+                <item name="Sanbox" type="f1a62948:ProjectNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="sandbox" type="f1a62948:ProjectNode" />
+                <item name="Sanbox" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
             </expand>
@@ -43,7 +43,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1mmV1U4v5lNRW38qvHuRnsVOgpV" />
+  <component name="ProjectId" id="1mmaVNsFFHK5t25dZxPG1CCCtar" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,19 +51,34 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sandbox/build.gradle" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Sanbox/build.gradle" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyFirstProgram" />
+      <module name="Sanbox.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyFirstProgram" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b2918539-9034-41d4-983d-f124ef1b153b" name="Default Changelist" comment="" />
-      <created>1610098545857</created>
+      <changelist id="20d812cc-9403-4078-9347-613c012def08" name="Default Changelist" comment="" />
+      <created>1610101244900</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1610098545857</updated>
+      <updated>1610101244900</updated>
     </task>
     <servers />
   </component>

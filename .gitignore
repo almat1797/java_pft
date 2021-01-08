@@ -1,14 +1,15 @@
-.gradle
-/build/
 
-# Ignore Gradle GUI config
-gradle-app.setting
-
-# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
-!gradle-wrapper.jar
-
-# Cache of project
-.gradletasknamecache
-
-# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
-# gradle/wrapper/gradle-wrapper.properties
+sandbox/build.gradle
+sandbox/build/classes/java/main/MyFirstProgram.class
+sandbox/build/distributions/sandbox.tar
+sandbox/build/distributions/sandbox.zip
+sandbox/build/libs/sandbox.jar
+sandbox/build/scripts/sandbox
+sandbox/build/scripts/sandbox.bat
+sandbox/build/tmp/compileJava/source-classes-mapping.txt
+sandbox/build/tmp/jar/MANIFEST.MF
+sandbox/gradle/wrapper/gradle-wrapper.jar
+sandbox/gradle/wrapper/gradle-wrapper.properties
+sandbox/gradlew
+sandbox/gradlew.bat
+sandbox/src/main/java/MyFirstProgram.java
