@@ -59,7 +59,7 @@
   </component>
   <component name="RunManager">
     <configuration name="MyFIrstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyFIrstProgram" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sanbox.MyFIrstProgram" />
       <module name="Sanbox.main" />
       <method v="2">
         <option name="Make" enabled="true" />
