@@ -1,2 +1,2 @@
-MyFirstProgram.java
- MyFirstProgram
+ru/stqa/pft/sanbox/MyFirstProgram.java
+ ru.stqa.pft.sanbox.MyFirstProgram
