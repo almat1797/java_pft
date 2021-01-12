@@ -6,4 +6,10 @@ repositories {
 }
 dependencies {
     implementation 'org.testng:testng:7.3.0'
+    implementation 'org.seleniumhq.selenium:selenium-java:3.14.0'
+    implementation 'io.appium:java-client:7.3.0'
+}
+
+test {
+    useTestNG()
 }
