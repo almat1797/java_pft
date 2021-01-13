@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.stqa.pft.sanbox.Two" tests="3" skipped="1" failures="2" errors="0" timestamp="2021-01-12T13:03:39" hostname="DESKTOP-ES03ILI" time="0.193">
+<testsuite name="ru.stqa.pft.sanbox.Two" tests="3" skipped="1" failures="2" errors="0" timestamp="2021-01-13T09:23:52" hostname="DESKTOP-ES03ILI" time="0.148">
   <properties/>
-  <testcase name="setUp" classname="ru.stqa.pft.sanbox.Two" time="0.167">
+  <testcase name="setUp" classname="ru.stqa.pft.sanbox.Two" time="0.108">
     <failure message="java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
 	at com.google.common.base.Preconditions.checkState(Preconditions.java:853)
 	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:134)
@@ -10,7 +10,7 @@
 	at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:355)
 	at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:94)
 	at org.openqa.selenium.chrome.ChromeDriver.&lt;init&gt;(ChromeDriver.java:123)
-	at ru.stqa.pft.sanbox.Two.setUp(Two.java:20)
+	at ru.stqa.pft.sanbox.Two.setUp(Two.java:22)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -67,9 +67,9 @@
   <testcase name="test2" classname="ru.stqa.pft.sanbox.Two" time="0.0">
     <skipped/>
   </testcase>
-  <testcase name="tearDown" classname="ru.stqa.pft.sanbox.Two" time="0.0">
+  <testcase name="tearDown" classname="ru.stqa.pft.sanbox.Two" time="0.001">
     <failure message="java.lang.NullPointerException" type="java.lang.NullPointerException">java.lang.NullPointerException
-	at ru.stqa.pft.sanbox.Two.tearDown(Two.java:38)
+	at ru.stqa.pft.sanbox.Two.tearDown(Two.java:40)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)

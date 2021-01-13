@@ -1,4 +1,5 @@
 package ru.stqa.pft.sanbox;
+
 import java.util.regex.Pattern;
 import java.util.concurrent.TimeUnit;
 
@@ -17,6 +18,7 @@ public class Two {
 
   @BeforeClass(alwaysRun = true)
   public void setUp() throws Exception {
+    //driver = new FirefoxDriver();
     driver = new ChromeDriver();
     baseUrl = "https://www.google.com/";
     driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);

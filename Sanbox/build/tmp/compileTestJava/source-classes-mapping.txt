@@ -1,4 +1,4 @@
-ru/stqa/pft/sanbox/Two.java
- ru.stqa.pft.sanbox.Two
 ru/stqa/pft/sanbox/SquareTests.java
  ru.stqa.pft.sanbox.SquareTests
+ru/stqa/pft/sanbox/Two.java
+ ru.stqa.pft.sanbox.Two
