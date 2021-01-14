@@ -21,6 +21,7 @@ public class ApplicationManager {
     baseUrl = "https://www.google.com/";
     driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
     driver.manage().window().maximize();
+    driver.get("http://localhost/addressbook/group.php");
     groupHelper = new GroupHelper(driver);
     navigationHelper = new NavigationHelper(driver);
     sessionHelper = new SessionHelper(driver);
@@ -46,14 +47,7 @@ public class ApplicationManager {
     }
   }
 
-  public boolean isAlertPresent() {
-    try {
-      driver.switchTo().alert();
-      return true;
-    } catch (NoAlertPresentException e) {
-      return false;
-    }
-  }
+
 
   public String closeAlertAndGetItsText() {
     try {
