@@ -6,3 +6,5 @@ ru/stqa/pft/sanbox/Square.java
  ru.stqa.pft.sanbox.Square
 ru/stqa/pft/sanbox/Circle.java
  ru.stqa.pft.sanbox.Circle
+ru/stqa/pft/sanbox/Equation.java
+ ru.stqa.pft.sanbox.Equation
