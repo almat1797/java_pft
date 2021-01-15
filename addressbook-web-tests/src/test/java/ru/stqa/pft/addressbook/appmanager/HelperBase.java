@@ -17,8 +17,10 @@ public class HelperBase {
 
   protected void type(By locator, String text) {
     click(locator);
-    driver.findElement(locator).clear();
-    driver.findElement(locator).sendKeys(text);
+    if (text != null) {
+      driver.findElement(locator).clear();
+      driver.findElement(locator).sendKeys(text);
+    }
   }
 
   public boolean isAlertPresent() {
