@@ -8,3 +8,5 @@ ru/stqa/pft/sanbox/Circle.java
  ru.stqa.pft.sanbox.Circle
 ru/stqa/pft/sanbox/Equation.java
  ru.stqa.pft.sanbox.Equation
+ru/stqa/pft/sanbox/Equality.java
+ ru.stqa.pft.sanbox.Equality
