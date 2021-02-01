@@ -37,7 +37,7 @@ public class ApplicationManager {
     baseUrl = "https://www.google.com/";
     driver.manage().timeouts().implicitlyWait(2, TimeUnit.SECONDS);
     driver.manage().window().maximize();
-    driver.get("http://localhost/addressbook/group.php");
+    driver.get("http://localhost/addressbook");
     contactHelper = new ContactHelper(driver);
     groupHelper = new GroupHelper(driver);
     navigationHelper = new NavigationHelper(driver);
@@ -81,11 +81,11 @@ public class ApplicationManager {
     }
   }
 
-  public GroupHelper getGroupHelper() {
+  public GroupHelper group() {
     return groupHelper;
   }
 
-  public NavigationHelper getNavigationHelper() {
+  public NavigationHelper goTo() {
     return navigationHelper;
   }
 

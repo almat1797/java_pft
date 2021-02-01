@@ -1,12 +1,26 @@
-ru/stqa/pft/sanbox/MyFirstProgram.java
- ru.stqa.pft.sanbox.MyFirstProgram
+ru/stqa/pft/sanbox/Equality.java
+ ru.stqa.pft.sanbox.Equality
+ru/stqa/pft/sanbox/MaxString.java
+ ru.stqa.pft.sanbox.MaxString
+ru/stqa/pft/sanbox/Massiv.java
+ ru.stqa.pft.sanbox.Massiv
+ru/stqa/pft/sanbox/Equation.java
+ ru.stqa.pft.sanbox.Equation
+ru/stqa/pft/sanbox/Primes.java
+ ru.stqa.pft.sanbox.Primes
 ru/stqa/pft/sanbox/Rectangle.java
  ru.stqa.pft.sanbox.Rectangle
+ru/stqa/pft/sanbox/Lists.java
+ ru.stqa.pft.sanbox.Lists
+ru/stqa/pft/sanbox/MyFirstProgram.java
+ ru.stqa.pft.sanbox.MyFirstProgram
+ru/stqa/pft/sanbox/SetList.java
+ ru.stqa.pft.sanbox.SetList
 ru/stqa/pft/sanbox/Square.java
  ru.stqa.pft.sanbox.Square
 ru/stqa/pft/sanbox/Circle.java
  ru.stqa.pft.sanbox.Circle
-ru/stqa/pft/sanbox/Equation.java
- ru.stqa.pft.sanbox.Equation
-ru/stqa/pft/sanbox/Equality.java
- ru.stqa.pft.sanbox.Equality
+ru/stqa/pft/sanbox/Collections.java
+ ru.stqa.pft.sanbox.Collections
+ru/stqa/pft/sanbox/MassivOdinOdin.java
+ ru.stqa.pft.sanbox.MassivOdinOdin

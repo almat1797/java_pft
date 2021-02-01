@@ -4,3 +4,5 @@ ru/stqa/pft/sanbox/SquareTests.java
  ru.stqa.pft.sanbox.SquareTests
 ru/stqa/pft/sanbox/EquationTests.java
  ru.stqa.pft.sanbox.EquationTests
+ru/stqa/pft/sanbox/PrimeTests.java
+ ru.stqa.pft.sanbox.PrimeTests
