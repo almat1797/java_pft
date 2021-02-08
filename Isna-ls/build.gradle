@@ -1,0 +1,15 @@
+apply plugin: 'java'
+
+repositories {
+    mavenCentral()
+}
+dependencies {
+    implementation 'org.testng:testng:7.1.0'
+    implementation 'org.seleniumhq.selenium:selenium-java:3.14.0'
+    implementation 'io.appium:java-client:7.3.0'
+    implementation 'org.hamcrest:java-hamcrest:2.0.0.0'
+}
+
+test {
+    useTestNG()
+}
