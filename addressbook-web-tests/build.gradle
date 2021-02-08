@@ -9,6 +9,7 @@ dependencies {
     implementation 'io.appium:java-client:7.3.0'
     implementation 'org.hamcrest:java-hamcrest:2.0.0.0'
     implementation 'com.beust:jcommander:1.78'
+    implementation 'com.thoughtworks.xstream:xstream:1.4.15'
 }
 
 test {
